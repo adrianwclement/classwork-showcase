@@ -1,7 +1,7 @@
 """
     CS051P Lab Assignments: Final Project
 
-    Authors: Dylan O'Connor and Adrian Clement
+    Authors: Adrian Clement
 
     Date:   December 9th, 2022
 
