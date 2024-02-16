@@ -1,28 +1,11 @@
 # Darwin Game Assignment (Completed)
 
-This is an exercise to create a game in Java using OOP principles. The following are instructions and an explanation for the game.
-
-## Learning Goals
-
-* Gain practice writing large, multi-class programs.
-* Learn the importance of modular decomposition and information hiding. (The entire program is
-broken down into a series of classes that can be developed and tested independently, without revealing
-representational details.)
-* Have fun with a problem that is algorithmically interesting in its own right!
-
-## Key Terms and Concepts
-
-* `ArrayList` - An ArrayList is a resizable array-like data structure, where items can be added and removed regardless of the initialized size (See 1.3 pg. 136 in the recommended textbook and the lecture slides for more).
-* `Matrix` - A grid made of rows and columns, in this case implemented with ArrayLists of ArrayLists.
-* Modular decomposition - In this case, the concept of breaking a complex coding problem into individual parts which each serve their own purposes and interlock with each other.
+This is an exercise to create a two-dimensional survival game in Java using OOP principles. The following are instructions and an explanation for the game.
 
 
 ## Description
 
-In this assignment, your job is to build a simulator for a game called Darwin invented by Nick Parlante. The Darwin program simulates a two-dimensional world divided up into small squares and populated by a
-number of creatures. Each of the creatures lives in one of the squares, faces in one of the major compass
-directions (North, East, South, or West), and belongs to a particular species, which determines how that
-creature behaves. For example, one possible world is shown below:
+In this assignment, your job is to build a simulator for a game called Darwin invented by Nick Parlante. The Darwin program simulates a two-dimensional world divided up into small squares and populated by a number of creatures. Each of the creatures lives in one of the squares, faces in one of the major compass directions (North, East, South, or West), and belongs to a particular species, which determines how that creature behaves. For example, one possible world is shown below:
 
 ![World](figures/darwin.png "Example Darwin World")
 
