@@ -65,9 +65,9 @@
 
 Portfolio of Python, Haskell, and Java classwork to demonstrate rudimentary and intermediate coding understanding.
 
-[Darwin Game](Darwin-Game) - Darwin 2D surivial game
+[Darwin Game](Darwin-Game) - Darwin 2D surivial game to demonstrate understanding of Object-Oriented-Programming and basic game design
 
-[Data Analysis Final Project](Data-Analysis-Final-Project) - Analyzing and visualizing large amounts of data in csv file format
+[Data Analysis Final Project](Data-Analysis-Final-Project) - Analysis and visualization of large CSV data set to demonstrate understanding of basic data analysis principles
 
 [Encryption Exercises](Encryption-Exercises) - Showcase to demonstrate understanding of cryptography, recursion, and functional programming basics (Haskell-based)
 
