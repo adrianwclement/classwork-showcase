@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/d-koding/Classwork-Showcase">
+  <a href="https://github.com/adrianwclement/classwork-showcase">
     <img src="https://static.vecteezy.com/system/resources/previews/030/507/229/original/pixel-art-illustration-pencil-pixelated-pencil-pencil-office-icon-pixelated-for-the-pixel-art-game-and-icon-for-website-and-video-game-old-school-retro-vector.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,7 +38,7 @@
   <p align="center">
     "A portfolio of classwork through Intro CS, Discrete Math & Functional Programming, Data Structures & Algorithms, and Data Analysis in Python for Life Sciences"
     <br />
-    <a href="https://github.com/d-koding/Classwork-Showcase"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adrianwclement/classwork-showcase"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -90,18 +90,18 @@ Project Link: [https://github.com/adrianwclement/classwork-showcase](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/d-koding/Classwork-Showcase.svg?style=for-the-badge
-[contributors-url]: https://github.com/d-koding/Classwork-Showcase/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/d-koding/Classwork-Showcase.svg?style=for-the-badge
-[forks-url]: https://github.com/d-koding/Classwork-Showcase/network/members
-[stars-shield]: https://img.shields.io/github/stars/d-koding/Classwork-Showcase.svg?style=for-the-badge
-[stars-url]: https://github.com/d-koding/Classwork-Showcase/stargazers
-[issues-shield]: https://img.shields.io/github/issues/d-koding/Classwork-Showcase.svg?style=for-the-badge
-[issues-url]: https://github.com/d-koding/Classwork-Showcase/issues
-[license-shield]: https://img.shields.io/github/license/d-koding/Classwork-Showcase.svg?style=for-the-badge
-[license-url]: https://github.com/d-koding/Classwork-Showcase/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/adrianwclement/classwork-showcase.svg?style=for-the-badge
+[contributors-url]: https://github.com/adrianwclement/classwork-showcase/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/adrianwclement/classwork-showcase.svg?style=for-the-badge
+[forks-url]: https://github.com/adrianwclement/classwork-showcase/network/members
+[stars-shield]: https://img.shields.io/github/stars/adrianwclement/classwork-showcase.svg?style=for-the-badge
+[stars-url]: https://github.com/adrianwclement/classwork-showcase/stargazers
+[issues-shield]: https://img.shields.io/github/issues/adrianwclement/classwork-showcase.svg?style=for-the-badge
+[issues-url]: https://github.com/adrianwclement/classwork-showcase/issues
+[license-shield]: https://img.shields.io/github/license/adrianwclement/classwork-showcase.svg?style=for-the-badge
+[license-url]: https://github.com/adrianwclement/classwork-showcase/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/dylan-o-connor
+[linkedin-url]: https://linkedin.com/in/adrian-clement
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
