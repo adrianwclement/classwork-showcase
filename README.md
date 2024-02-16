@@ -63,13 +63,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Portfolio of Python, Haskell, and Java classwork to demonstrate rudimentary coding understanding.
+Portfolio of Python, Haskell, and Java classwork to demonstrate rudimentary and intermediate coding understanding.
 
 [Darwin Game](Darwin-Game) - Darwin 2D surivial game
 
 [Data Analysis Final Project](Data-Analysis-Final-Project) - Analyzing and visualizing large amounts of data in csv file format
 
-[Caesar Cipher](caesar_ciphers) - showcase of ability to use recursion (haskell based)
+[Caesar Cipher](Ceasar-Cipher) - Showcase of ability to use recursion and elements of functional programming
+
+[RSA Encryption](RSA-Encryption) - Showcase to demonstrate understanding of cryptography and functional programming basics
 
 [Recursion](recursion) - showcase of recursive graphic creation, eg fractals
 
