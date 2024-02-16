@@ -1,8 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/yZVIrdlx)
 # Assignment - Darwin
 
-### This is a pair assignment where you will work with a partner of your choice. Let us know if you need help finding a partner. 
-
 ## Learning Goals
 
 * Gain practice writing large, multi-class programs.
