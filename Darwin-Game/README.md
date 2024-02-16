@@ -1,6 +1,6 @@
 # Darwin Game Assignment (Completed)
 
-This is an exercise to create a two-dimensional survival game in Java using OOP principles. The following are instructions and an explanation for the game.
+This is an exercise to create a two-dimensional survival game in Java using OOP principles. The following are instructions and an explanation for the game. Submitted as part of weekly assignments for Pomona College's CS62: Data Structures & Advanced Programming Course.
 
 
 ## Description
