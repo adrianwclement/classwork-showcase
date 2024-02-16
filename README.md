@@ -36,7 +36,7 @@
 <h3 align="center">Classwork-Showcase</h3>
 
   <p align="center">
-    "A portfolio of classwork through Intro CS to Discrete Mathemetics and Functional Programming"
+    "A portfolio of classwork through Intro CS, Discrete Math & Functional Programming, Data Structures & Algorithms, and Data Analysis in Python for Life Sciences"
     <br />
     <a href="https://github.com/d-koding/Classwork-Showcase"><strong>Explore the docs »</strong></a>
     <br />
@@ -63,11 +63,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Portfolio of classwork in Python and Haskell to demonstrate rudimentary coding understanding.
+Portfolio of Python, Haskell, and Java classwork to demonstrate rudimentary coding understanding.
 
-[Image Manipulation](image_manipulation) - ppm file modification
+[Darwin Game](Darwin-Game) - Darwin 2D surivial game
 
-[Data Visualization](data_visualization) - visualizing large amounts of data in csv file format
+[Data Analysis Final Project](Data-Analysis-Final-Project) - Analyzing and visualizing large amounts of data in csv file format
 
 [Caesar Cipher](caesar_ciphers) - showcase of ability to use recursion (haskell based)
 
@@ -80,9 +80,9 @@ Portfolio of classwork in Python and Haskell to demonstrate rudimentary coding u
 <!-- CONTACT -->
 ## Contact
 
-Dylan OConnor
+Adrian Clement
 
-Project Link: [https://github.com/d-koding/Classwork-Showcase](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/adrianwclement/classwork-showcase](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
