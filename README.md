@@ -69,9 +69,7 @@ Portfolio of Python, Haskell, and Java classwork to demonstrate rudimentary and 
 
 [Data Analysis Final Project](Data-Analysis-Final-Project) - Analyzing and visualizing large amounts of data in csv file format
 
-[Caesar Cipher](Ceasar-Cipher) - Showcase of ability to use recursion and elements of functional programming
-
-[RSA Encryption](RSA-Encryption) - Showcase to demonstrate understanding of cryptography and functional programming basics
+[Encryption Exercises](Encryption-Exercises) - Showcase to demonstrate understanding of cryptography, recursion, and functional programming basics (Haskell-based)
 
 [Recursion](recursion) - showcase of recursive graphic creation, eg fractals
 
